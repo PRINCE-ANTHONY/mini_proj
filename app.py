@@ -46,7 +46,7 @@ def convert_text_to_speech(text):
     return audio_buffer
     
     
-st.title("🎙️AI voice assistant")
+st.title("🎙️LEMORA AI")
 
 st.write(
     '''This is an AI voice assistant that can answer your questions.  
