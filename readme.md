@@ -1,6 +1,6 @@
 # 🎙️ LEMORA AI - Voice Assistant
 
-LEMORA AI is a voice-powered AI assistant built using **Python**, **Streamlit**, and **Groq AI**. It allows users to ask questions through voice input, converts speech into text using Groq's Whisper model, generates intelligent responses using Llama 3.3, and converts the response back into natural speech using Google Text-to-Speech. The application loads the Groq API key from environment variables before initializing the client. :contentReference[oaicite:0]{index=0}
+LEMORA AI is a voice-powered AI assistant built using **Python**, **Streamlit**, and **Groq AI**. It allows users to ask questions through voice input, converts speech into text using Groq's Whisper model, generates intelligent responses using Llama 3.3, and converts the response back into natural speech using Google Text-to-Speech. The application loads the Groq API key from environment variables before initializing the client. 
 
 ---
 
