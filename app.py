@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 load_dotenv()
-fetch_api_key = os.getenv("groq_api_key")
+fetch_api_key = os.getenv("GROQ_API_KEY")
 
 if not fetch_api_key:
     st.error("Please set the GROQ_API_KEY environment variable.")
