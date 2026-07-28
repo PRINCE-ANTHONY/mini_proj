@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from groq import Groq
 
 st.set_page_config(
-    page_title="LEMORA Assistant",
+    page_title="LEMORA AI",
     page_icon="microphone",
     layout="centered"
 )
@@ -46,7 +46,7 @@ def convert_text_to_speech(text):
     return audio_buffer
     
     
-st.title("🎙️LEMORA AI")
+st.title("🎙️LEMORA AI voice assistant")
 
 st.write(
     '''This is an AI voice assistant that can answer your questions.  
