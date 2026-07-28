@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from groq import Groq
 
 st.set_page_config(
-    page_title="AI voice assistant",
+    page_title="LEMORA Assistant",
     page_icon="microphone",
     layout="centered"
 )
